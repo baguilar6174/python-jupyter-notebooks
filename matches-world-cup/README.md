@@ -1,4 +1,4 @@
-# Fifa Matches Analysis
+# [Fifa Matches Analysis](https://www.kaggle.com/code/bryana/matches-world-cup-analisys)
 
 ## Questions for the analisys
 
@@ -32,7 +32,7 @@
 
 ## Stages
 
-- Import data
+- Import data: Dataset in Kaggle → [fifa-matches-dataset](https://www.kaggle.com/datasets/muhammadjiyadkhan/fifa-matches-dataset)
 - Data cleaning
 - Filter data
 - Data visualization
@@ -44,5 +44,3 @@
 - We have identified the number of referees per World Cup, the number of referees per match.
 - In relation to the 2006 World Cup we can identify main referees who were given the responsibility of refereeing more matches or important matches.
 - We can identify that the number of referees per World Cup has been varying over time and depending on the World Cup.
-
-## [Notebook in Kaggle](https://www.kaggle.com/code/bryana/matches-world-cup-analisys)
