@@ -4,6 +4,7 @@ Explore a world of data through this collection of data analysis projects. These
 
 1. [Fifa matches world cup](./matches-world-cup)
 2. [Sleep health and lifestyle](./sleep-health-and-lifestyle)
+3. [Practice Exercises](./practice-exercises)
 
 ## Stay in touch
 
