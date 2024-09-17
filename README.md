@@ -12,7 +12,8 @@ Explore a world of data through this collection of data analysis projects. These
 
 Python is one of the most in-demand programming languages. This path will provide you with the foundational skills for coding in Python.
 
-[Getting Started with Python](./python-course)
+- [Getting Started with Python](./python-course/fundamentals-notebook.ipynb)
+- [Object Oriented Programming](./python-course/object-oriented-programming.ipynb)
 
 ## Stay in touch
 
