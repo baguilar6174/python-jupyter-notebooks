@@ -19,4 +19,4 @@ Python is one of the most in-demand programming languages. This path will provid
 
 - Website - [www.bryan-aguilar.com](https://www.bryan-aguilar.com/)
 - Medium - [baguilar6174](https://baguilar6174.medium.com/)
-- LinkeIn - [baguilar6174](https://www.linkedin.com/in/baguilar6174)
+- LinkedIn - [baguilar6174](https://www.linkedin.com/in/baguilar6174)
