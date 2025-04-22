@@ -12,8 +12,6 @@ It's a brand of artificial inteligence that helps to build models based on the d
 
 ## Skills
 
-## **Skills Breakdown and Detailed Descriptions**
-
 ### **Mathematics**
 
 Mathematics is the fundamental language of Machine Learning and AI. A strong mathematical background provides the intuition and understanding necessary to grasp how algorithms work, why they work, and how to modify or create new ones.
