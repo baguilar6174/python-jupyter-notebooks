@@ -44,4 +44,10 @@ Machine learning methods are categorized in two types depending of the existence
 
 ## Training & Evaluating ML models
 
-1:01:00
+1. ***Data preparation***: Split data into train, validation and test.
+2. ***Model training***: Train the model on the training data and save the fitted model.
+3. ***Hyper-parameter tuning***: Use the fitted model and validation set to find the optimal set of parameter where the model performs the best.
+4. ***Prediction***: Use the optimal set of parameters from Hyper-Parameter tuning stage and training data, to train the model again with these hyper parameters, use this best fitted model to predictions on test data.
+5. ***Test error rate***: Compute the performance metrics for your model using the predictions and real values of the target variable from your test data.
+
+1:05:22
